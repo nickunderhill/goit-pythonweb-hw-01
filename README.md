@@ -6,7 +6,7 @@
 poetry install
 ```
 
-## Acticate virtual environment
+## Activate virtual environment
 
 ```
 poetry shell
